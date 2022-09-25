@@ -6,8 +6,8 @@
  */
  
 const cacheName = 'marwanto606';
-const startPage = 'https://www.marwanto606.com';
-const offlinePage = 'https://www.marwanto606.com';
+const startPage = 'https://www.app-tokosenapanangin.com/';
+const offlinePage = 'https://www.app-tokosenapanangin.com/offline.html';
 const filesToCache = [startPage, offlinePage];
 const neverCacheUrls = [/\/wp-admin/,/\/wp-login/,/preview=true/];
 
